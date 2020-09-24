@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="Nombre">Jhon Pinedo</string>
+    <string name="Telefono">3163957487</string>
+    <string name="Gmail">jhonpinrojas@gmail.com</string>
+    <string name="PNombre">Jhon Pinedo</string>
+    <string name="PTelefono">3163957487</string>
+    <string name="PGmail">jhonpinrojas@gmail.com</string>
+</resources>
